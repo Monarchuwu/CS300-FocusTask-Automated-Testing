@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log inEmailEmailPasswordPasswordLog InD_32ce1a</name>
+   <tag></tag>
+   <elementGuidId>88c15abb-99f0-4a2c-8b87-39326b8727d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='LogInForm']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-62o24s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Log inEmail *Email *Password *Password *Log InDon't have an account? Sign Up&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bd9224a-8e95-4ebb-9f76-81b667499108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-62o24s</value>
+      <webElementGuid>010ac893-dbe7-4707-8244-8bc6b0ba5d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log inEmail *Email *Password *Password *Log InDon't have an account? Sign Up</value>
+      <webElementGuid>956ca60b-ec90-4197-8b05-73245fd2726c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LogInForm&quot;)/div[@class=&quot;MuiBox-root css-62o24s&quot;]</value>
+      <webElementGuid>7615ffcc-1c18-44b3-b977-9d8dc1b21a0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='LogInForm']/div</value>
+      <webElementGuid>44e86a31-eed7-4259-94cd-8a0e89115089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to FocusTask'])[1]/following::div[2]</value>
+      <webElementGuid>e73b3608-1419-447c-8541-ee724c7c7c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>1258aebb-49b1-488a-bd65-3d497334e312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Log inEmail *Email *Password *Password *Log InDon&quot; , &quot;'&quot; , &quot;t have an account? Sign Up&quot;) or . = concat(&quot;Log inEmail *Email *Password *Password *Log InDon&quot; , &quot;'&quot; , &quot;t have an account? Sign Up&quot;))]</value>
+      <webElementGuid>542e879c-8196-45d7-86e0-2dcf42156625</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
