@@ -19,19 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://cs300-focustask.vercel.app/signin')
-
-WebUI.click(findTestObject('Object Repository/Page_Log In - FocusTask/button_Dont have an account Sign Up'))
+WebUI.navigateToUrl('https://cs300-focustask.vercel.app/register')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Username_username'), 'validUser')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Email_email'), 'test@example.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Password_password'), '9NLz+4tGZcQ=')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/span_'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Email_email'), 'test6@example.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Password_password'), '8SQVv/p9jVScEs4/2CZsLw==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Confirm Password_confirmPassword'), 
+    '9NLz+4tGZcQ=')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/label_Confirm Password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Confirm Password_confirmPassword'), 
+    '8SQVv/p9jVScEs4/2CZsLw==')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/button_Create Account'))
 

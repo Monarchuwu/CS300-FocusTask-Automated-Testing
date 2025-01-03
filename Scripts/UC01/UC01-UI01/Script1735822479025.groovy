@@ -21,15 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://cs300-focustask.vercel.app/signin')
 
-WebUI.setText(findTestObject('Object Repository/Page_Log In - FocusTask/input_Email_email'), 'test@example.com')
+WebUI.setText(findTestObject('Object Repository/Page_Log In - FocusTask/input_Email_email (1)'), 'test@example.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log In - FocusTask/input_Password_password'), 'r98I3Krbh9FyLvOoVhuYpw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Log In - FocusTask/input_Password_password (1)'), 'r98I3Krbh9FyLvOoVhuYpw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Log In - FocusTask/button_Log In'))
+WebUI.click(findTestObject('Object Repository/Page_Log In - FocusTask/button_Log In (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Inbox - FocusTask/span_Normal Task'))
-
-WebUI.click(findTestObject('Object Repository/Page_Inbox - FocusTask/div_Normal TaskLow'))
+WebUI.click(findTestObject('Object Repository/Page_Inbox - FocusTask/div_Testing TaskHigh'))
 
 WebUI.closeBrowser()
 

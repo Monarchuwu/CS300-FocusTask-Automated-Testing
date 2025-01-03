@@ -19,21 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://cs300-focustask.vercel.app/signin')
-
-WebUI.click(findTestObject('Object Repository/Page_Log In - FocusTask/button_Dont have an account Sign Up'))
+WebUI.navigateToUrl('https://cs300-focustask.vercel.app/register')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Username_username'), 'validUser')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Email_email'), '')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/label_Password'))
-
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Password_password'), 'r98I3Krbh9FyLvOoVhuYpw==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign Up - FocusTask/input_Confirm Password_confirmPassword'), 
+    'r98I3Krbh9FyLvOoVhuYpw==')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/button_Create Account'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_Sign Up - FocusTask/div_Email is invalid'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign Up - FocusTask/div_Email is invalid'))
 
 WebUI.closeBrowser()
 

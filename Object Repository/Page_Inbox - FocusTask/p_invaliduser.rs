@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c44ff416-e272-4260-bfa4-21f5263143d8</webElementGuid>
+      <webElementGuid>ec7bf548-92c2-453d-bb94-36c5ac25953f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body2 css-1w6865g</value>
-      <webElementGuid>5ac8b937-4af1-4703-b56e-4acf63181192</webElementGuid>
+      <webElementGuid>73070165-a7cc-4234-85c7-1df47a4fc629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>UserName</value>
-      <webElementGuid>741b0d66-250d-4df4-ae1a-a6a8d8ff3f62</webElementGuid>
+      <webElementGuid>d29f8ece-650f-4000-a032-fbe2fdadf7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>@invalid#user</value>
-      <webElementGuid>8e93b5a5-dd5a-457b-8486-948b1d482cd4</webElementGuid>
+      <webElementGuid>2c7e1c24-ed51-47f5-a902-50abb2241777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;UserName&quot;)</value>
-      <webElementGuid>9fe5a1ed-6897-48b0-b0e5-6e1c521ff4c1</webElementGuid>
+      <webElementGuid>bfbe6469-c9c9-467c-b05d-68d0e1ca7032</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='UserName']</value>
-      <webElementGuid>19fc1414-e3ae-4838-a1fd-b0a38f8eba2c</webElementGuid>
+      <webElementGuid>8d939797-10b7-42ea-b005-a056eaec9130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='User']/p</value>
-      <webElementGuid>a8ecc3eb-acec-4311-ab32-daf301f92c43</webElementGuid>
+      <webElementGuid>3f4ba5f2-efa8-4fea-91d5-3b2afcc22fd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/following::p[1]</value>
-      <webElementGuid>ddbe47df-3b98-4888-afd8-864ba85b3f86</webElementGuid>
+      <webElementGuid>0962c2e7-33a9-4e17-a464-829ed3dc4618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::p[1]</value>
-      <webElementGuid>19994fbb-b408-4c64-805a-27dc27f2ed18</webElementGuid>
+      <webElementGuid>67ad7c9c-38b4-45eb-98ec-6ec24344368d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::p[1]</value>
-      <webElementGuid>1b4314f9-03c7-40d2-8796-bf1e41a867e7</webElementGuid>
+      <webElementGuid>21e89627-9590-4b39-b2aa-fd0f38be8854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Section'])[1]/preceding::p[1]</value>
-      <webElementGuid>13b04545-081e-4f15-a235-047bdab30c51</webElementGuid>
+      <webElementGuid>b123631c-0ef8-4c47-9f62-a1c5bb3b5d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='@invalid#user']/parent::*</value>
-      <webElementGuid>17e85aca-d2a2-46a8-928a-404d3cc37598</webElementGuid>
+      <webElementGuid>43c840f6-c7a7-4d3a-a837-48a019a4d830</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>9c327076-2ab5-4c06-b4b9-1b9b5b5f4767</webElementGuid>
+      <webElementGuid>ed9c8554-b928-43e7-a22c-a102febe3739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'UserName' and (text() = '@invalid#user' or . = '@invalid#user')]</value>
-      <webElementGuid>eff92d8e-de46-45fd-b15d-12c56d979605</webElementGuid>
+      <webElementGuid>5c87b43f-4d98-4d8e-89c9-489f17ce5304</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

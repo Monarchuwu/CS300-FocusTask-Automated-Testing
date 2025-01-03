@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Testing TaskHigh2359, 04-01-25 (3)</name>
+   <tag></tag>
+   <elementGuidId>cdeb825f-9a61-463d-9415-599425427bee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-fv3lde</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel1a-content']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Testing TaskHigh23:59, 04-01-25&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3b51656-ad34-47fa-8181-0473a3237c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-fv3lde</value>
+      <webElementGuid>372cc450-99bc-4591-bbba-cd4ffafb5933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing TaskHigh23:59, 04-01-25</value>
+      <webElementGuid>36fbca9d-1188-4418-96d7-ec8518c26b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App_App__B2Ebb&quot;]/div[@class=&quot;MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row css-p1hrig&quot;]/div[@class=&quot;MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 css-18wkevi&quot;]/div[@class=&quot;MuiBox-root css-1v1qs4&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded css-17m55b&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-1cbf1l2&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-15830to&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9vd5ud&quot;]/div[@id=&quot;panel1a-content&quot;]/div[@class=&quot;MuiAccordionDetails-root css-bes99b&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1gunrcb&quot;]/div[@class=&quot;MuiBox-root css-fv3lde&quot;]</value>
+      <webElementGuid>ebea9338-ce6c-4168-943e-a7a0025e297c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel1a-content']/div/div/div/div</value>
+      <webElementGuid>21ab8312-eb5f-4fc9-a350-91127769d307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>8af82ac6-514b-48ca-92ac-cad83dad71c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Testing TaskHigh23:59, 04-01-25' or . = 'Testing TaskHigh23:59, 04-01-25')]</value>
+      <webElementGuid>5bce329e-ec03-4a87-8317-8de4ccd8bc31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

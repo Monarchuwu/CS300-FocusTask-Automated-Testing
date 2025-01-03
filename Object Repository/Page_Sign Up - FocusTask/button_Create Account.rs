@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8746cc79-0e7c-431a-8470-fbdf8ebb0d51</webElementGuid>
+      <webElementGuid>bf515b75-21ad-4342-856d-560a38318040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth SignInRegister_SignInButton__iZGWd css-797bqy</value>
-      <webElementGuid>e9bfa7dc-dc5c-441d-bc92-ad64af7dd911</webElementGuid>
+      <webElementGuid>dcbfe60a-7a30-4498-88c0-674186ee999b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b6b21e59-2cdb-4997-b2f7-97e6541f622a</webElementGuid>
+      <webElementGuid>28b2a3ab-0e8d-4000-aa49-848fda52f63a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>eba71386-347e-42f5-af64-94e22f3a0029</webElementGuid>
+      <webElementGuid>ecbf4501-f7a6-4243-91bf-dc945972d2d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create Account</value>
-      <webElementGuid>dd9263d7-6964-4ea3-8b58-bf00fa9bf019</webElementGuid>
+      <webElementGuid>267789ec-b6e0-4a6d-ae56-2efe49248b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;SignUpForm&quot;)/div[@class=&quot;MuiBox-root css-62o24s&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth SignInRegister_SignInButton__iZGWd css-797bqy&quot;]</value>
-      <webElementGuid>9cd3c440-ec7c-49ac-b3f7-90179c4dd078</webElementGuid>
+      <webElementGuid>ddc33cba-248d-4671-8989-58e00cdab497</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>f3c41e76-d92f-44e0-9b30-da280d4b1420</webElementGuid>
+      <webElementGuid>761d7411-6110-4912-8cf8-8550fe92b210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='SignUpForm']/div/button</value>
-      <webElementGuid>ca5123be-a0df-47ea-a2d0-a5878efa8e79</webElementGuid>
+      <webElementGuid>8209d7d9-89ab-4c2b-af72-e70dea121e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already had an account? Log in'])[1]/preceding::button[1]</value>
-      <webElementGuid>18cd4f91-1566-4395-bc3b-c8c1759b3d57</webElementGuid>
+      <webElementGuid>b25bb0b2-b153-43be-b8b0-08e8c7c22256</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create Account']/parent::*</value>
-      <webElementGuid>ebb70fe5-df97-4e60-a431-f185efd2bd57</webElementGuid>
+      <webElementGuid>51ba7524-fba1-480d-b35a-d801aaea9021</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>18ca2768-f8b8-490d-a4fb-f3635b4c9682</webElementGuid>
+      <webElementGuid>40334f3b-674f-4f7e-aec8-18d2685730a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Create Account' or . = 'Create Account')]</value>
-      <webElementGuid>690fa2d5-a966-4655-8a37-773774c02bac</webElementGuid>
+      <webElementGuid>b9270b50-7c7b-4a02-a1dd-cfa006df764c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

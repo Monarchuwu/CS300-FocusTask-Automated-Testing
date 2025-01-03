@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>path:nth-of-type(8)</value>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-auoq4t > svg > g > path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Due Date&quot;i</value>
+         <value>#User >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>3ed24eee-a110-4ad3-a310-d7d7cec36df1</webElementGuid>
+      <webElementGuid>9f9e46b4-8f0c-4af5-bd9d-042460b313bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M.463,0V3.291</value>
-      <webElementGuid>07beeb3d-964a-4383-b176-ddc46ae30924</webElementGuid>
+      <value>M14.34,0H5.67C2.28,0,0,2.38,0,5.92v8.17C0,17.62,2.28,20,5.67,20h8.67C17.73,20,20,17.62,20,14.09V5.92C20,2.38,17.73,0,14.34,0</value>
+      <webElementGuid>2f8d2626-6281-4d7c-9b27-25673ef2e0e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>transform</name>
       <type>Main</type>
-      <value>translate(12.581 0)</value>
-      <webElementGuid>f907bc6f-d1bf-4fd5-94ad-90b7f1277616</webElementGuid>
+      <value>translate(2 2)</value>
+      <webElementGuid>303cecce-7104-4784-afab-f9976db45c56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>fill</name>
       <type>Main</type>
-      <value>none</value>
-      <webElementGuid>20cebe59-ff52-4e36-b875-2605c5d4d934</webElementGuid>
+      <value>currentColor</value>
+      <webElementGuid>65e8d42f-4ef2-465e-b30c-b00d51809a5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,15 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dueDateSelection&quot;)/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-oofez5&quot;]/svg[1]/g[1]/path[8]</value>
-      <webElementGuid>2165d8d0-ea7e-4f3b-a41f-a76de41e592e</webElementGuid>
+      <value>id(&quot;User&quot;)/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-auoq4t&quot;]/svg[1]/g[1]/path[1]</value>
+      <webElementGuid>2bd2ac9d-0160-429a-a959-77f6cc4ba464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0.4</value>
+      <webElementGuid>688bbe86-c438-470a-b1d6-a59a73871727</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

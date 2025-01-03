@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='SignUpForm']/div/div[4]/div[2]</value>
+         <value>//div[@id='SignUpForm']/div/div[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.MuiAlert-message.css-127h8j3</value>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0.MuiAlert-root.MuiAlert-colorError.MuiAlert-standardError.MuiAlert-standard.css-loibp5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Email is invalid!&quot;i</value>
+         <value>internal:role=alert</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c4164389-c175-4285-b1b6-f37c7a290b21</webElementGuid>
+      <webElementGuid>8ac0ed4a-e26f-4f36-a5b4-f455157b5f5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiAlert-message css-127h8j3</value>
-      <webElementGuid>5b761a0e-70de-4774-a2c1-a4a62308f60e</webElementGuid>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-colorError MuiAlert-standardError MuiAlert-standard css-loibp5</value>
+      <webElementGuid>04e0c8e1-b831-48a6-b1c5-faeb6c4b606c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,106 @@
       <name>text</name>
       <type>Main</type>
       <value>Email is invalid!</value>
-      <webElementGuid>9b4169fb-ee1b-401e-b8a3-1c0af17aec12</webElementGuid>
+      <webElementGuid>66318902-c31c-43fa-8ea7-0a2d918bf277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SignUpForm&quot;)/div[@class=&quot;MuiBox-root css-62o24s&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-colorError MuiAlert-standardError MuiAlert-standard css-loibp5&quot;]/div[@class=&quot;MuiAlert-message css-127h8j3&quot;]</value>
-      <webElementGuid>51784187-dd73-43d4-9393-b49357eaf58c</webElementGuid>
+      <value>id(&quot;SignUpForm&quot;)/div[@class=&quot;MuiBox-root css-62o24s&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiAlert-root MuiAlert-colorError MuiAlert-standardError MuiAlert-standard css-loibp5&quot;]</value>
+      <webElementGuid>eb2c8d26-12d3-45ba-b47e-de732f6d8ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>71ed39ae-6751-47bd-82fe-0a65165cd3b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SignUpForm']/div/div[5]</value>
+      <webElementGuid>4492c244-9da6-4618-a1bc-2ced3d78a06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::div[1]</value>
+      <webElementGuid>1f93c95c-c8a3-4955-af91-e17521c1395d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already had an account? Log in'])[1]/preceding::div[3]</value>
+      <webElementGuid>31ee306c-79e7-4a64-bc39-2c98ce93fd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>ed1128aa-3b19-4e71-8b9d-7e23baf9b66f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email is invalid!' or . = 'Email is invalid!')]</value>
+      <webElementGuid>90a08dd2-2c16-4e4e-a68d-4dab8fff4232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SignUpForm']/div/div[5]/div[2]</value>
+      <webElementGuid>f09d2e3c-d326-4742-97f2-2d8a6cb87ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::div[3]</value>
+      <webElementGuid>9038a6e0-c2d5-434b-85f7-caf86706cf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already had an account? Log in'])[1]/preceding::div[1]</value>
+      <webElementGuid>08938e7e-7228-4196-b11f-4f10a0d3b448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email is invalid!']/parent::*</value>
+      <webElementGuid>9408272a-2a04-43d8-8cc6-462a8173e7c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>9efd440d-2792-48ff-8dd6-eb34f72e2469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -66,41 +154,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::div[3]</value>
-      <webElementGuid>081f8c01-740b-41f7-9494-2f2360637904</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already had an account? Log in'])[1]/preceding::div[1]</value>
-      <webElementGuid>3689f394-32a0-4f9f-8662-421f730cc80d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Email is invalid!']/parent::*</value>
-      <webElementGuid>7cfb463e-3a6d-4429-8627-00d16bd8688c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]</value>
       <webElementGuid>3b7ebd4d-b47e-4493-ad49-bc12502966e2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Email is invalid!' or . = 'Email is invalid!')]</value>
-      <webElementGuid>1ddee1fb-5ba8-4771-b66b-b84635d17434</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
